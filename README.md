@@ -1,4 +1,4 @@
-# Hi, I'm Giulia
+# Hi, I'm Giulia!
 
 MSc student in **Computer Engineering (Software)** at **Politecnico di Torino**, graduating **December 2026**.
 Based in Turin, Italy. Previously a software developer at **ALTEN Italia**, building C#/WPF desktop applications for industrial clients.
