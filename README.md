@@ -10,7 +10,7 @@ I like problems where correctness matters: distributed backends, API design, and
 ### What I'm working on
 
 **Master's thesis — LLM-based agents for black-box REST API test generation**
-A four-agent pipeline (Requirements Analyst → API Understanding → Requirement/API Matcher → Test Strategy Planner) that turns requirement documents and an OpenAPI spec into executable API tests, with a metrics-driven feedback loop. Python 3.12, runs on local inference (LM Studio) with a cloud fallback.
+A four-agent pipeline (Requirements Analyst → API Understanding → Requirement/API Matcher → Test Strategy Planner) that turns requirement documents and an OpenAPI spec into executable API tests, with a metrics-driven feedback loop. Python 3.12, runs on local inference (LM Studio).
 → [`MCs-Thesis`](https://github.com/giuliabax/MCs-Thesis)
 
 ---
