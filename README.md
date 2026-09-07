@@ -19,9 +19,9 @@ A four-agent pipeline (Requirements Analyst → API Understanding → Requiremen
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Participium** | Citizen reporting platform for the Municipality of Turin: role-based access control, intervention assignment, internal chat. Built by a Scrum team, containerized, CI with SonarCloud. | React · Node.js · SQLite · Docker |
+| [`**Participium**`](https://github.com/Team-9-Software-Engineering-II/participium) | Citizen reporting platform for the Municipality of Turin: role-based access control, intervention assignment, internal chat. Built by a Scrum team, containerized, CI with SonarCloud. | React · Node.js · SQLite · Docker |
 | **GeoControl** | Service that ingests and processes weather sensor data and produces aggregated statistics. Test-covered and containerized. | TypeScript · Docker |
-| **MWAHAHA** | Humor generation under strict lexical constraints using an LLM ensemble, plus the evaluation pipeline to compare model variants. | Python · LLaMA · Transformers |
+| [`**MWAHAHA**`](https://github.com/AgnesePino/LLM-Project-SemEval-Humor-Generation) | Humor generation under strict lexical constraints using an LLM ensemble, plus the evaluation pipeline to compare model variants. | Python · LLaMA · Transformers |
 | **Autonomous driving assignments** | Dijkstra and A* path planning, lane and obstacle detection, driver distraction monitoring, camera-based rPPG heart-rate estimation. | Python · OpenCV · MediaPipe |
 | **PacMan on LPC1768** | The full game on a bare-metal ARM board — interrupts, timers, real-time constraints, tight memory budget. | C · ARM Assembly |
 
