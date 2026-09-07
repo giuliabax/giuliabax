@@ -1,4 +1,4 @@
-# Hi, I'm Giulia 👋
+# Hi, I'm Giulia
 
 MSc student in **Computer Engineering (Software)** at **Politecnico di Torino**, graduating **December 2026**.
 Based in Turin, Italy. Previously a software developer at **ALTEN Italia**, building C#/WPF desktop applications for industrial clients.
@@ -7,7 +7,7 @@ I like problems where correctness matters: distributed backends, API design, and
 
 ---
 
-### 🔭 What I'm working on
+### What I'm working on
 
 **Master's thesis — LLM-based agents for black-box REST API test generation**
 A four-agent pipeline (Requirements Analyst → API Understanding → Requirement/API Matcher → Test Strategy Planner) that turns requirement documents and an OpenAPI spec into executable API tests, with a metrics-driven feedback loop. Python 3.12, runs on local inference (LM Studio) with a cloud fallback.
@@ -15,7 +15,7 @@ A four-agent pipeline (Requirements Analyst → API Understanding → Requiremen
 
 ---
 
-### 📌 Selected projects
+### Selected projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -27,7 +27,7 @@ A four-agent pipeline (Requirements Analyst → API Understanding → Requiremen
 
 ---
 
-### 🛠 Tech
+### Tech
 
 **Comfortable with:** C · C++ · C# · JavaScript · Shell
 **Working knowledge:** Python · TypeScript · Java · SQL · Rust · Assembly
@@ -36,7 +36,7 @@ A four-agent pipeline (Requirements Analyst → API Understanding → Requiremen
 
 ---
 
-### 📫 Reach me
+### Reach me
 
 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · giulibax@gmail.com
 
