@@ -41,6 +41,6 @@ A four-agent pipeline (Requirements Analyst → API Understanding → Requiremen
 
 ### Reach me
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · giulibax@gmail.com
+[LinkedIn](https://www.linkedin.com/in/giulia-bax-31014a239/) · giulibax@gmail.com
 
 *Currently looking for a Summer 2027 software engineering internship.*
