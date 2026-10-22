@@ -30,8 +30,11 @@ A four-agent pipeline (Requirements Analyst → API Understanding → Requiremen
 ### Tech
 
 **Comfortable with:** C · C++ · C# · JavaScript · Shell
+
 **Working knowledge:** Python · TypeScript · Java · SQL · Rust · Assembly
+
 **Tools:** Git · Linux · Docker · React · Node.js · GitHub Actions · SonarCloud
+
 **Practices:** Agile Scrum · code review · REST API design · CI/CD
 
 ---
